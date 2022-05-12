@@ -2,7 +2,7 @@
 
 ## Project 1
 
-A static HTML and CSS site, it uses some css tricks to give the user a dynamic site feel.
+A static responsive HTML and CSS site, it uses some css tricks to give the user a dynamic site feel.
 
 *screenshots*
 
