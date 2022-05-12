@@ -20,7 +20,7 @@ Blokus strategy game - vanilla js. Can you be smarter than the computer?
 
 ## Project 3
 
-A Single Page Application of contacts database. Implementation of simulated server which can handle fake Ajax requests.
+A demo server which can handle fake Ajax requests to serve a Single Page Application of contacts database.
 
 *screenshot*
 
@@ -28,7 +28,7 @@ A Single Page Application of contacts database. Implementation of simulated serv
 
 ## Project 4
 
-Get to 100 - A simple math game. implemented using react.
+Get to 100 - A simple math game. built using React.
 
 *screenshot*
 
