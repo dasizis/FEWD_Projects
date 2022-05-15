@@ -46,8 +46,6 @@ Get to 100 - A simple math game. built using React.
 
 
 
-
-
 ## Project 5
 
 React Database application. Working with React-Router and Material-Design
