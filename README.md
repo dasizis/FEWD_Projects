@@ -2,7 +2,7 @@
 
 ## Project 1
 
-A static responsive HTML and CSS site, it uses some css tricks to give the user a dynamic site feel.
+A static responsive HTML and CSS website, it uses some css tricks to give the user a dynamic site feel.
 
 *screenshots*
 
@@ -28,15 +28,29 @@ A demo server which can handle fake Ajax requests to serve a Single Page Applica
 
 ## Project 4
 
+### A Simple Math Game
+
 Get to 100 - A simple math game. built using React.
 
 *screenshot*
 
 <img src="Screenshots/project-4-0.jpg"  width="400">
 
+
+### Text Editor
+
+
+*screenshot*
+
+<img src="Screenshots/project-4-1.jpg"  width="400">
+
+
+
+
+
 ## Project 5
 
-A site which allows the user to interact with data taken from the server.
+React Database application. Working with React-Router and Material-Design
 
 *screenshot*
 
