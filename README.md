@@ -39,7 +39,7 @@ Get to 100 - A simple math game. built using React.
 
 ### Text Editor
 
-
+A basic text editor includes save & open functionality. The files are stored as JSON files to enable format saving.
 *screenshot*
 
 <img src="Screenshots/project-4-1.jpg"  width="400">
